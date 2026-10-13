@@ -1,0 +1,14 @@
+# 依赖与缓存
+node_modules/
+.cache/
+*.log
+
+# 视频与临时文件
+*.mp4
+*.raw
+*.tmp
+webapp/.cache/
+
+# 系统
+.DS_Store
+Thumbs.db
